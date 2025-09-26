@@ -12,3 +12,5 @@ Bu proje, TypeScript ile temel **if-else koşulları** üzerine alıştırmalar 
    ```bash
    git clone <repo-url>
 
+2.TypeScript dosyasını çalıştırın:
+<ts-node functions-in-typescript.ts>>
